@@ -4,7 +4,7 @@ description: My stance on AI, the arguments I keep hearing, and my answers to th
 author: Microck
 ---
 
-If you got linked to this page, you're probably anti-AI and/or criticizing one of my projects with arguments regarding AI. I don't enjoy having to repeat the same evidence every time, so I decided to put all of my answers here. If you don't care enough to read it, fine by me, but criticizing me while refusing to engage with the evidence is performative.
+I don't enjoy having to repeat the same evidence every time, so I decided to put all of my answers here. If you don't care enough to read it, fine by me, but criticizing me while refusing to engage with the evidence is performative.
 
 On the other hand, if you decide to read it, thank you for at least taking the time to do so, even if it's just out of hatred. My answers are backed by studies or evidence when possible, so if you decide to argue against them, the very least I expect is for you to be able to do the same (with a credible source, of course).
 
