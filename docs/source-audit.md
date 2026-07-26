@@ -47,8 +47,9 @@ decision before publication. It is not part of the public page.
   distinction directly.
 - Sources 35-37 document the Linux Foundation's support for open AI
   initiatives, Linux kernel commits using the "Assisted-by" trailer, and Linus
-  Torvalds's mailing-list guidance for that trailer. They do not establish that
-  every Linux installation inherently uses or integrates AI.
+  Torvalds explicitly stating that Linux is not an anti-AI project and that AI
+  is a useful tool. They do not establish that every Linux installation
+  inherently uses or integrates AI.
 
 ### Public source status
 
