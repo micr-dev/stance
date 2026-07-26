@@ -57,13 +57,13 @@ main {
   margin-block-end: 3rem;
 }
 
-.page-header p {
-  margin-block: 0.5rem 0;
+.page-footer {
+  margin-block-start: 5rem;
   font-size: var(--text-meta);
 }
 
-.page-header .review-date {
-  margin-block-start: 0.125rem;
+.page-footer p {
+  margin: 0;
 }
 
 h1,

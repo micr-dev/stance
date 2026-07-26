@@ -45,15 +45,16 @@ decision before publication. It is not part of the public page.
 - Using an AI-mediated product is not identical to accepting AI-generated
   source code. The hypocrisy conclusion would be stronger if it addressed that
   distinction directly.
-- Source 35 establishes that the Linux Foundation actively supports open AI
-  initiatives. It does not establish that every Linux installation inherently
-  uses or integrates AI.
+- Sources 35-37 document the Linux Foundation's support for open AI
+  initiatives, Linux kernel commits using the "Assisted-by" trailer, and Linus
+  Torvalds's mailing-list guidance for that trailer. They do not establish that
+  every Linux installation inherently uses or integrates AI.
 
 ### Public source status
 
-- Sources 34-48 are now approved and included in the public page. Sources
-  34-46 cover every named product and category with first-party documentation.
-  Sources 47-48 establish widespread AI-tool adoption among developers and
+- Sources 34-50 are now approved and included in the public page. Sources
+  34-48 cover every named product and category with first-party documentation.
+  Sources 49-50 establish widespread AI-tool adoption among developers and
   documented AI use in production chip design.
 - X's official Grok help page is discoverable through search and identifies
   Grok as an AI assistant available to X users, but currently returns HTTP 403
