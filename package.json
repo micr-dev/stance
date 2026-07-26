@@ -1,0 +1,8 @@
+{
+  "name": "stance",
+  "private": true,
+  "scripts": {
+    "build": "pandoc content.md --from=markdown-smart+autolink_bare_uris --to=html5 --standalone --template=page-template.html --output=index.html",
+    "serve": "python3 -m http.server 4173 --bind 0.0.0.0"
+  }
+}

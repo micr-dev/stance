@@ -1,0 +1,10 @@
+.git
+.jj
+.gitignore
+artifacts
+content.md
+docs
+eng.traineddata
+package.json
+page-template.html
+README.md
