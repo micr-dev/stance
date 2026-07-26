@@ -7,16 +7,19 @@ decision before publication. It is not part of the public page.
 
 - The oil-and-gas "psyop" attribution has no supporting source. It remains
   because Microck explicitly chose to keep it.
+- Sources 3-4 support the climate and health harms associated with fossil-fuel
+  energy. They do not prove the "psyop" attribution or the subjective
+  superlative "most problematic."
 - "One of the first widely circulated mainstream articles" is hard to prove.
   Mainstream coverage existed before the cited Washington Post article.
 - The 583x and 1,996x comparisons use figures with different model,
   measurement, and water-accounting boundaries. They remain because Microck
   explicitly chose to keep them.
-- Sources 10-16 cite the primary reports and datasets behind the first chart.
+- Sources 12-18 cite the primary reports and datasets behind the first chart.
   The 1,400-square-mile data-center-site estimate and 25-square-mile building
   estimate remain unreproducible because the chart gives no underlying dataset
   or calculation.
-- Sources 17-20 cite the studies behind the second chart. The cattle bar is a
+- Sources 19-22 cite the studies behind the second chart. The cattle bar is a
   rounded sum of the studies' beef-cattle and dairy-cattle totals.
 - The second chart's 0.5 km3 bar comes from the IEA's estimate for all data
   centers, including direct cooling plus indirect energy-supply and
@@ -42,15 +45,15 @@ decision before publication. It is not part of the public page.
 - Using an AI-mediated product is not identical to accepting AI-generated
   source code. The hypocrisy conclusion would be stronger if it addressed that
   distinction directly.
-- Source 30 establishes that the Linux Foundation actively supports open AI
+- Source 35 establishes that the Linux Foundation actively supports open AI
   initiatives. It does not establish that every Linux installation inherently
   uses or integrates AI.
 
 ### Public source status
 
-- Sources 29-43 are now approved and included in the public page. Sources
-  29-41 cover every named product and category with first-party documentation.
-  Sources 42-43 establish widespread AI-tool adoption among developers and
+- Sources 34-48 are now approved and included in the public page. Sources
+  34-46 cover every named product and category with first-party documentation.
+  Sources 47-48 establish widespread AI-tool adoption among developers and
   documented AI use in production chip design.
 - X's official Grok help page is discoverable through search and identifies
   Grok as an AI assistant available to X users, but currently returns HTTP 403
@@ -69,18 +72,17 @@ using a recommendation system is necessarily hypocritical.
 ## Vibecoding
 
 - Karpathy's post supports the origin and wording of the term.
-- The claim that tech is one of the highest-paying fields needs labor-market
-  data if it is presented as factual rather than rhetorical.
-- [The U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm)
-  reported a $133,080 median annual wage for software developers in May 2024.
-  This supports "software development is highly paid," but not "tech is the
-  highest-paying field."
+- Source 33 reports a $105,990 median annual wage for computer and information
+  technology occupations in May 2024, compared with $49,500 for all
+  occupations. It supports "one of the highest-paying fields," but not the
+  rhetorical extension "if not the highest-paying field."
 
 ## Jobs
 
 - The counterfactual claim that employers would otherwise offshore the same
-  work is broader than the linked definitions of offshoring and global labor
-  arbitrage.
+  work is broader than sources 23-26. Those sources establish offshoring,
+  global labor arbitrage, and the overlap between tasks exposed to technology
+  and foreign labor.
 - No source found establishes that employers who replace workers with AI would
   otherwise have offshored those exact jobs. That sentence should remain a
   political argument, be narrowed, or be removed.
