@@ -126,7 +126,7 @@ In reality, the term originated with AI researcher Andrew Karpathy in February 2
 
 With that out of the way, most non-technical people assume that AI assistance or use in software engineering consists of "vibecoding." That is not the case for most software, nor for my projects: I make, review, and test every single decision. I don't delegate my thought process and creativity to AI. I put countless hours of effort into my projects. You're directly disrespecting my work.
 
-Either way, if you still think building these projects is easy,<sup class="citation-cluster">[<a id="cite-31" href="#source-31" aria-label="Source 31">31</a>, <a id="cite-32" href="#source-32" aria-label="Source 32">32</a>]</sup> I encourage you to take my job, or any job in tech (SWE, AI/ML, etc.). It's one of the highest-paying fields,<sup><a id="cite-33" href="#source-33" aria-label="Source 33">33</a></sup> if not the highest-paying field, so it should be a no-brainer :)
+Either way, if you still think building these projects is easy,<sup class="citation-cluster">[<a id="cite-31" href="#source-31" aria-label="Source 31">31</a>, <a id="cite-32" href="#source-32" aria-label="Source 32">32</a>]</sup> I encourage you to take my job, or any job in tech (SWE, AI/ML, etc.). It's one of the highest-paying fields,<sup><a id="cite-33" href="#source-33" aria-label="Source 33">33</a></sup> so it should be a no-brainer ;)
 
 ### Sources
 
