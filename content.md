@@ -155,6 +155,11 @@ Some examples of projects that have been attacked purely because critics saw the
 
 3. [Example 3](https://x.com/ginyoagoldie/status/2020178441564492082?s=20)
 
+<h2 id="political-claims" class="claim-group">
+  <span>Using AI makes you a fascist, a conservative, or a class traitor</span>
+</h2>
+
+A lot of my takes on AI are shaped by my political and personal beliefs, but I can't be bothered to go in depth. I don't like to lock all my ideas into a "tag," but I would consider myself a leftist (pretty extreme, too). Trans rights, fuck capitalism, yada yada yada. If you think being a leftist is incompatible with being pro-AI (I guess because most people assume AI = right wing), you should probably work on forming your own opinion instead of regurgitating talking points from others.
 <h2 id="ai-assisted-tool-claims" class="claim-group">
   <span>I won't use your tool because AI was used to build it</span>
   <span>I refuse to use anything AI contributed to</span>
@@ -218,9 +223,3 @@ Cool! I hope you don't use Windows,<sup class="citation-cluster">[<a id="cite-34
   <li id="source-84"> <a href="https://survey.stackoverflow.co/2025/ai/">Stack Overflow, "2025 Developer Survey: AI"</a> (widespread use of AI tools in software development). <a class="source-backlink" href="#cite-84" aria-label="Back to citation 84">←</a> </li>
   <li id="source-85"> <a href="https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/">Google DeepMind, "How AlphaChip Transformed Computer Chip Design"</a> (documented use of AI in production chip layouts). <a class="source-backlink" href="#cite-85" aria-label="Back to citation 85">←</a> </li>
 </ol>
-
-<h2 id="political-claims" class="claim-group">
-  <span>Using AI makes you a fascist, a conservative, or a class traitor</span>
-</h2>
-
-A lot of my takes on AI are shaped by my political and personal beliefs, but I can't be bothered to go in depth. I don't like to lock all my ideas into a "tag," but I would consider myself a leftist (pretty extreme, too). Trans rights, fuck capitalism, yada yada yada. If you think being a leftist is incompatible with being pro-AI (I guess because most people assume AI = right wing), you should probably work on forming your own opinion instead of regurgitating talking points from others.
