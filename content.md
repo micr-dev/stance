@@ -155,7 +155,7 @@ Some examples of projects that have been attacked purely because critics saw the
 
 3. [Celstomp](https://x.com/ginyoagoldie/status/2020178441564492082?s=20)
 
-4. [Example 4](https://x.com/object_stream/status/2083678229450088887?s=46)
+4. [Object Stream Community](https://x.com/object_stream/status/2083678229450088887?s=46)
 
 <h2 id="political-claims" class="claim-group">
   <span>Using AI makes you a fascist, a conservative, or a class traitor</span>
